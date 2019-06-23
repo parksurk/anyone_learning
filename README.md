@@ -47,6 +47,14 @@ To setup our project environment to run the code in this repository, follow the 
   To clone this repository:
   git clone https://github.com/udacity/DL_PyTorch.git
 
+  <DRL Value-based Methods GitHub Repository>
+  You can find all of the coding exercises from the lessons in this GitHub repository(https://github.com/parksurk/drl_value-based_methods).
+
+  To clone this repository:
+  ‭git clone https://github.com/parksurk/drl_value-based_methods.git
+
+
+
 4.	Create (and activate) a new environment with Python 3.6.
 	-	Linux or Mac:
 		```
